@@ -1,0 +1,11 @@
+.crypto-currency-block {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: red;
+}
+
+.crypto-currency-item {
+  max-width: 20%;
+  height: auto;
+}
