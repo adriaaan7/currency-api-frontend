@@ -1,0 +1,17 @@
+.crypto-currency {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin: 2px;
+  padding: 2px;
+  background-color: rgba(251, 255, 0, 0.349);
+  color: black;
+  font-size: 1rem;
+  min-width: 300px;
+  max-width: max-content;
+}
+
+.rate-of-change {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
